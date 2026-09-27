@@ -1,0 +1,21 @@
+# APIキー・環境変数
+.env
+.env.*
+!.env.example
+
+# Python一時ファイル
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 実行時に生成されるデータ
+state.json
+
+# 開発途中のバックアップ
+*_backup.py
+
+# OS・エディタ関連
+.DS_Store
+Thumbs.db
+.vscode/
